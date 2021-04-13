@@ -5,7 +5,7 @@ body{margin:0;}
 /* GLOBAL COLORS */
 body{color: rgba(0,0,0,0.8);}
 a{color: rgba(0,102,204,1);}
-a:hover{color:rgba(0,51,153,1);}
+a:hover{color:rgb(153, 112, 0);}
 
 /* GLOBAL TYPOGRAPHY */
 body{
@@ -19,7 +19,7 @@ body{
 
 header{
     background-color: rgba(0,102,204,1);
-    color: rgba(0,0,0,0.8);
+    color: rgba(0, 0, 0, 0.8);
     padding: 1em;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -62,7 +62,7 @@ main{
 
 /* HERO SECTION */
 .hero{
-    background-color: rgba(0,102,204,1);
+    background-color: rgb(128, 0, 128);
     text-align: center;
     color: white;
     padding: 6em 1em;
